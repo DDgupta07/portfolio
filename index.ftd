@@ -30,8 +30,8 @@ header-item1-link: /portfolio
 header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
-cta-item2: Follow me on Insta
-cta-item2-link: https://instagram.com/guptadarshann
+cta-item2: Follow us on Insta
+cta-item2-link: https://instagram.com/campus.techies/
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -44,8 +44,8 @@ cta-item2-link: https://instagram.com/guptadarshann
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm a community lead at CampusTechies
-link: https://github.com/DDgupta07/
+title: Tech Thrive: Connect, Learn, Grow
+link: https://instagram.com/campus.techies/
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -70,18 +70,18 @@ spacing.fixed.px: 20
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: Darshan Gupta,
+firstTitle: We're
+secondTitle: CampusTechies,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: UI/UX
-secondTitle: Designer
+firstTitle: Tech 
+secondTitle: Community
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: Tech Enthusiast.
+secondTitle: Tech Builders.
 
--- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: CampusTechies: A tech community for college students, providing latest news on events, tutorials & workshops. Connect, learn and grow with us.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
@@ -94,8 +94,8 @@ width.fixed.px: 700
 spacing.fixed.px: 10
 
 -- button.secondary:
-title: Hire me
-link: mailto:darshan.guptaait@gmail.com
+title: Contact us
+link: mailto:campustechiescommunity@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -117,11 +117,11 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/guptadarshan/
+link: https://www.linkedin.com/company/campustechies/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/GuptaDarshan3/
+link: https://twitter.com/campustechies/
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
@@ -129,11 +129,11 @@ link: https://github.com/DDgupta07/
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/guptadarshann/
+link: https://instagram.com/campus.techies/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:darshan.guptaait@gmail.com
+link: mailto:campustechiescommunity.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
