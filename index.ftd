@@ -20,7 +20,7 @@
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
-logo: $assets.files.images.logo.svg
+logo: $assets.files.images.campustechies.png
 logoURL: /portfolio
 header-item1: Home
 header-item2: About
